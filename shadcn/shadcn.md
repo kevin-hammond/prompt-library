@@ -15,8 +15,8 @@ Technical preferences for shadcn UI:
 
 Best practices:
 
-- Initialize shadcn UI in the project using `npx shadcn-ui@latest init`
-- Add components using `npx shadcn-ui@latest add [component-name]`
+- Initialize shadcn UI in the project using `npx shadcn@latest init`
+- Add components using `npx shadcn@latest add [component-name]`
 - Customize the `components.json` file for project-specific configurations
 - Use the shadcn UI components as building blocks, composing them for more complex UI elements
 - Implement responsive designs using the built-in Tailwind classes in shadcn components
